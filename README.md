@@ -14,7 +14,7 @@ This dashboard provides an interactive visualization of a UK e-commerce dataset,
 	+ Customer demographics
 
 ## Dashboard Features
-![image](../ukdashboard.png)
+![image](ukdashboard.png)
 ### Sales Analysis
 
 * Monthly sales trends
