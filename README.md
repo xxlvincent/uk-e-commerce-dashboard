@@ -6,14 +6,12 @@ This dashboard provides an interactive visualization of a UK e-commerce dataset,
 
 ## Dataset Information
 
-* **Source:** [Insert source of the dataset]
-* **Timeframe:** [Insert timeframe of the data]
+* **Source:** https://archive.ics.uci.edu/dataset/352/online+retail
+* **Timeframe:** 2010 - 2011
 * **Key Features:**
 	+ Sales
 	+ Revenue
-	+ Product categories
 	+ Customer demographics
-	+ ... (list other key features)
 
 ## Dashboard Features
 
